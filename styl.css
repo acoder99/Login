@@ -1,0 +1,43 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container{
+max-width: 1140px;
+padding: 0px 15px;
+margin: auto;
+}
+h1{
+text-align: center;
+color: yellowgreen;
+}
+.inp{
+margin-top: 50px;
+display: flex;
+justify-content: space-between;
+}
+.inp-text{
+width: 220px;
+height: 50px;
+border-radius: 5px;
+padding-left: 10px;
+}
+
+.btn{
+width: 150px;
+height: 50px;
+background-color: yellowgreen;
+border-radius: 5px;
+}
+.btn a{
+color: white;
+font-weight: 700;
+text-decoration: none;
+}
+
+#box{
+margin: auto;
+margin-top: 50px;
+}
